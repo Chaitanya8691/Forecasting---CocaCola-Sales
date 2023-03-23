@@ -1,4 +1,4 @@
-# Forecast-the-CocaCola-Sales.-
+# Forecasting - CocaCola Sales
 Forecast the CocaCola Sales
 
 ## Problem Statement 
